@@ -1,5 +1,9 @@
 # Object files
 *.o
+*.obj
+*.lst
+*.m51
+*.plg
 
 # Libraries
 *.lib
@@ -15,3 +19,5 @@
 *.exe
 *.out
 *.app
+*.hex
+
